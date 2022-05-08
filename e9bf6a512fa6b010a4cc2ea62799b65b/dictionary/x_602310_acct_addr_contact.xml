@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="Contact" max_length="40" name="x_602310_acct_addr_contact" sizeclass="1" type="collection">
+        <element label="Account" max_length="32" name="account" reference="x_602310_acct_addr_account" type="reference"/>
+        <element label="Short description" max_length="40" name="short_description" type="string"/>
+        <index name="index">
+            <element name="account"/>
+        </index>
+    </element>
+</database>

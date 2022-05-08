@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c63b2be72fe67010a4cc2ea62799b6ed" sys_domain="global" table="x_602310_acct_addr_contact" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-18 20:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>063b2be72fe67010a4cc2ea62799b6f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_602310_acct_addr_contact" name="x_602310_acct_addr_contact" sys_domain="global" view="0b09a3672fe67010a4cc2ea62799b6e2">c63b2be72fe67010a4cc2ea62799b6ed</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_602310_acct_addr_contact" sys_domain="global" view="0b09a3672fe67010a4cc2ea62799b6e2">cb09a3672fe67010a4cc2ea62799b6e8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-18 20:15:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-18 20:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>023b2be72fe67010a4cc2ea62799b6f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_602310_acct_addr_contact" name="x_602310_acct_addr_contact" sys_domain="global" view="0b09a3672fe67010a4cc2ea62799b6e2">c63b2be72fe67010a4cc2ea62799b6ed</sys_ui_form>
+            <sys_ui_section caption="Phones" display_value="Phones" name="x_602310_acct_addr_contact" sys_domain="global" view="0b09a3672fe67010a4cc2ea62799b6e2">823b2be72fe67010a4cc2ea62799b6ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-18 20:15:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_602310_acct_addr_contact</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-18 20:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c63b2be72fe67010a4cc2ea62799b6ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_602310_acct_addr_contact</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="demo_account_address" source="x_602310_acct_addr">e9bf6a512fa6b010a4cc2ea62799b65b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demo_account_address">e9bf6a512fa6b010a4cc2ea62799b65b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c63b2be72fe67010a4cc2ea62799b6ed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-18 20:15:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Account" name="account">0b09a3672fe67010a4cc2ea62799b6e2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
