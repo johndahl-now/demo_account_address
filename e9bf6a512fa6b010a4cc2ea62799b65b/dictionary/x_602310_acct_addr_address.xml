@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Address" max_length="40" name="x_602310_acct_addr_address" sizeclass="4" type="collection">
+        <element attributes="encode_utf8=false" label="Account" max_length="32" name="account" reference="x_602310_acct_addr_account" type="reference"/>
+        <element label="Action" max_length="4000" name="action" type="glide_action_list"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" mandatory="true" max_length="100" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address 2" max_length="100" name="address_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" mandatory="true" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Primary" max_length="40" name="primary" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="State" mandatory="true" max_length="40" name="state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip" mandatory="true" max_length="40" name="zip" type="string"/>
+        <index name="index">
+            <element name="account"/>
+        </index>
+    </element>
+</database>

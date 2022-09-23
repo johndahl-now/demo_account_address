@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_602310_acct_addr.alias_user" name="x_602310_acct_addr.alias_user">b11087e82fb63010a4cc2ea62799b655</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-21 19:40:49</sys_created_on>
+        <sys_id>f11087e82fb63010a4cc2ea62799b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b11087e82fb63010a4cc2ea62799b655</sys_name>
+        <sys_package display_value="demo_account_address" source="x_602310_acct_addr">e9bf6a512fa6b010a4cc2ea62799b65b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo_account_address">e9bf6a512fa6b010a4cc2ea62799b65b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f11087e82fb63010a4cc2ea62799b65a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-21 19:40:49</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
