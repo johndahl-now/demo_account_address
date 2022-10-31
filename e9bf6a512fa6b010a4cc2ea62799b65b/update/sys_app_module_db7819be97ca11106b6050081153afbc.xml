@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Demo Account Addresses">cfa036912fa6b010a4cc2ea62799b6ee</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Studio</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1000</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/$studio.do?sysparm_transaction_scope=e9bf6a512fa6b010a4cc2ea62799b65b&amp;sysparm_nostack=true&amp;sysparm_use_polaris=false</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>john.dahl</sys_created_by>
+        <sys_created_on>2022-09-23 21:30:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>db7819be97ca11106b6050081153afbc</sys_id>
+        <sys_name>Studio</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo Account Addresses" source="x_602310_acct_addr">e9bf6a512fa6b010a4cc2ea62799b65b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Account Addresses">e9bf6a512fa6b010a4cc2ea62799b65b</sys_scope>
+        <sys_update_name>sys_app_module_db7819be97ca11106b6050081153afbc</sys_update_name>
+        <timeline_page/>
+        <title>Studio</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Studio</window_name>
+    </sys_app_module>
+</record_update>
